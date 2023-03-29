@@ -67,6 +67,7 @@ export const Profile = () => {
         </div>
       </div>
 
+
       <div className="header-avatar">
         {hover ? (
           <Avatar
